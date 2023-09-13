@@ -1,0 +1,110 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    color: #F9FAF8;
+}
+
+header,
+main,
+footer {
+    background-color: #1F2937;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0;
+}
+
+figcaption {
+    color: #1F2937;
+}
+
+p,
+a {
+    color: #E5E7EB;
+    margin: 0;
+}
+
+blockquote {
+    color: #1F2937;
+    background-color: #E5E7EB;
+    margin: 0;
+}
+
+button {
+    color: inherit;
+    background-color: #3882F6;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0.5rem 2rem;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.hero-image {
+    background-color: grey;
+    text-align: center;
+}
+
+.figure-image {
+    border-radius: 0.5rem;
+    border: 3px solid #3882F6;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: inherit;
+    margin: 0;
+}
+
+.quote-attribute {
+    background-color: inherit;
+    font-weight: bold;
+}
+
+.call-to-action--container {
+    background-color: #3882F6;
+}
+
+.call-to-action--heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: inherit;
+}
+
+.call-to-action--button {
+    border: 3px solid #F9FAF8;
+}
