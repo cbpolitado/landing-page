@@ -101,6 +101,7 @@ blockquote {
     color: #1F2937;
     background-color: #E5E7EB;
     margin: 0;
+    padding: 8dvw 20dvw;
 }
 
 button {
@@ -162,6 +163,9 @@ button {
 .quote-attribute {
     background-color: inherit;
     font-weight: bold;
+    text-align: right;
+    padding: 1rem;
+    font-size: 24px;
 }
 
 .call-to-action--container {
