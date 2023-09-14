@@ -10,12 +10,12 @@ In this project, I am expected to create a webpage that will show my understandi
 
 Create a webpage from the design provided below.
 
-## Reference image
+#### Reference image
 
 ![Reference image](./desired-outcome/reference-image.png)
 
 
-## Design specifications
+#### Design specifications
 
 ![Design specifications](./desired-outcome/design-specifications.png)
 
@@ -26,16 +26,16 @@ Make sure that the images are free to be used, and that the creators are credite
 
 ### Project outcome
 
-## Widescreen version screenshot
+#### Widescreen version screenshot
 
 ![Screenshot of widescreen version](./outcome-screenshots/landing-page-wide-screen-v.png)
 
 
-## Mobile version screenshot
+#### Mobile version screenshot
 
 ![Screenshot of mobile version](./outcome-screenshots/landing-page-mobile-v.png)
 
 
-## Live link
+#### Live link
 
 https://cbpolitado.github.io/landing-page/
