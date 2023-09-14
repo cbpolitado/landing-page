@@ -62,15 +62,33 @@ hgroup {
     margin-bottom: 1rem;
 }
 
+section {
+    padding: 3dvw 20dvw 9dvw;
+}
+
 h2 {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
     margin: 0;
+    text-align: center;
+    padding: 1rem 1rem 2rem;
+}
+
+figure {
+    flex: 1;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: auto;
 }
 
 figcaption {
     color: #1F2937;
+    margin-top: 0.625rem;
 }
 
 p,
@@ -116,9 +134,21 @@ button {
     justify-content: center;
 }
 
+.info-container {
+    flex-flow: row wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 3.5rem;
+}
+
 .figure-image {
     border-radius: 0.5rem;
     border: 3px solid #3882F6;
+    margin: 0;
+    width: 165px;
+    height: 165px;
 }
 
 .quote {
