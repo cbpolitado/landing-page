@@ -267,3 +267,9 @@ footer {
         margin: 8dvw;
     }
 }
+
+@media screen and (min-width: 985px) {
+    .info-container {
+        flex-wrap: nowrap;
+    }
+}
