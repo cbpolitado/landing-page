@@ -38,7 +38,7 @@ Make sure that the images are free to be used, and that the creators are credite
 
 #### Mobile version screenshot
 
-![Screenshot of mobile version](./outcome-screenshots/v1-0-1/landing-page-mobile-v-1-0-1.png)
+![Screenshot of mobile version](./outcome-screenshots/v1-0-2/landing-page-mobile-v-1-0-2.png)
 
 
 #### Live link
