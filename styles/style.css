@@ -146,7 +146,7 @@ footer {
     justify-content: center;
     align-items: center;
     text-align: center;
-    gap: 3.5rem;
+    gap: 3rem;
 }
 
 .figure-image {
@@ -214,5 +214,56 @@ footer {
     
     button {
         flex: 1;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    header {
+        padding: 1rem 1.5rem;
+    }
+
+    nav {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: initial;
+    }
+
+    ul {
+        gap: 1rem;
+        align-items: stretch;
+        justify-content: space-between;
+    }
+
+    main {
+        padding: 7dvw;
+        gap: 1rem;
+    }
+
+    section {
+        padding: 3dvw 7dvw 9dvw;
+    }
+
+    h2 {
+        padding: 1rem;
+    }
+
+    blockquote {
+        padding: 8dvw 12dvw;
+    }
+
+    .info-container {
+        gap: 1.5rem;
+    }
+
+    .quote {
+        font-size: 27px;
+    }
+
+    .quote-attribute {
+        font-size: 18px;
+    }
+
+    .call-to-action--container {
+        margin: 8dvw;
     }
 }
