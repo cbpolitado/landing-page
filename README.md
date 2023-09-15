@@ -31,7 +31,7 @@ Make sure that the images are free to be used, and that the creators are credite
 ![Screenshot of widescreen version](./outcome-screenshots/v1-0-1/landing-page-wide-screen-v-1-0-1.png)
 
 
-### Tablet version screenshot
+#### Tablet version screenshot
 
 ![Screenshot of tablet version](./outcome-screenshots/v1-0-1/landing-page-tablet-v-1-0-1.png)
 
