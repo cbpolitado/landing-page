@@ -114,17 +114,6 @@ button {
     padding: 0.5rem 2rem;
 }
 
-@media screen and (max-width: 1021px) {
-    .hero-text {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    button {
-        flex: 1;
-    }
-}
-
 footer {
     text-align: center;
     padding: 4dvw;
@@ -214,5 +203,16 @@ footer {
 
     .call-to-action--button {
         flex: none;
+    }
+}
+
+@media screen and (max-width: 1021px) {
+    .hero-text {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    button {
+        flex: 1;
     }
 }
