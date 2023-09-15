@@ -28,12 +28,17 @@ Make sure that the images are free to be used, and that the creators are credite
 
 #### Widescreen version screenshot
 
-![Screenshot of widescreen version](./outcome-screenshots/landing-page-wide-screen-v.png)
+![Screenshot of widescreen version](./outcome-screenshots/v1-0-1/landing-page-wide-screen-v-1-0-1.png)
+
+
+### Tablet version screenshot
+
+![Screenshot of tablet version](./outcome-screenshots/v1-0-1/landing-page-tablet-v-1-0-1.png)
 
 
 #### Mobile version screenshot
 
-![Screenshot of mobile version](./outcome-screenshots/landing-page-mobile-v.png)
+![Screenshot of mobile version](./outcome-screenshots/v1-0-1/landing-page-mobile-v-1-0-1.png)
 
 
 #### Live link
