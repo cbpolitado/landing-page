@@ -235,8 +235,8 @@ footer {
     }
 
     main {
-        padding: 7dvw;
-        gap: 1rem;
+        padding: 7dvw 7dvw 3rem;
+        gap: 2rem;
     }
 
     section {
