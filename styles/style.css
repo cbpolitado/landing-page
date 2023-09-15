@@ -76,7 +76,6 @@ h2 {
 }
 
 figure {
-    flex: 1;
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -125,6 +124,7 @@ footer {
 }
 
 .hero-text {
+    /* The hero section does not wrap well on wider screens without a flex value */
     flex: 1;
 }
 
