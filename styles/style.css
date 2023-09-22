@@ -132,14 +132,10 @@ footer {
 
 .hero-image {
     background-color: #610E10;
-    text-align: center;
-    display: flex;
-    align-items: center;
     padding: 1rem;
     flex: 0 1 auto;
     width: 31.25rem;
     height: 15.625rem;
-    justify-content: center;
 }
 
 .info-container {
