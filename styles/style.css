@@ -210,7 +210,7 @@ footer {
 .call-to-action--button {
     border: 3px solid #FBFBD4;
     margin: 0.5rem 0;
-    flex: 1;
+    flex: 1 0 auto;
 }
 
 @media screen and (min-width: 1024px) {
