@@ -206,7 +206,11 @@ footer {
     }
 }
 
-@media screen and (max-width: 1021px) {
+@media screen and (max-width: 1118px) {
+    main {
+        flex-direction: column;
+    }
+    
     .hero-text {
         display: flex;
         flex-direction: column;
@@ -217,7 +221,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 560px) {
     header {
         padding: 1rem 1.5rem;
     }
@@ -232,6 +236,8 @@ footer {
         gap: 1rem;
         align-items: stretch;
         justify-content: space-between;
+        /* Wrap so that links with longer text does not overflow on smaller screens */
+        flex-wrap: wrap;
     }
 
     main {
