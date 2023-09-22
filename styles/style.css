@@ -135,7 +135,8 @@ footer {
     padding: 1rem;
     flex: 0 1 auto;
     width: 31.25rem;
-    height: 15.625rem;
+    height: auto;
+    max-width: 100%;
 }
 
 .info-container {
