@@ -168,8 +168,9 @@ footer {
     background-color: inherit;
     font-weight: bold;
     text-align: right;
-    padding: 1rem;
+    padding: 0;
     font-size: 24px;
+    margin-top: 1rem;
 }
 
 .call-to-action--container {
@@ -246,15 +247,16 @@ footer {
     }
 
     section {
-        padding: 3dvw 7dvw 9dvw;
+        padding: 12vw 7vw 15vw;
     }
 
     h2 {
-        padding: 1rem;
+        padding: 0;
+        margin-bottom: 2rem;
     }
 
     blockquote {
-        padding: 8dvw 12dvw;
+        padding: 15vw 12vw;
     }
 
     .info-container {
