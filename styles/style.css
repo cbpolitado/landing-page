@@ -25,13 +25,13 @@ footer {
 }
 
 header {
-    padding: 1rem;
+    padding: 1rem 14vw;
 }
 
 nav {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: space-between;
+    align-items: baseline;
     gap: 1.875rem;
 }
 
