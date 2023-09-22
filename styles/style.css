@@ -90,6 +90,8 @@ figure {
 figcaption {
     color: inherit;
     margin-top: 0.625rem;
+    display: flex;
+    flex-direction: column;
 }
 
 p,
@@ -154,6 +156,20 @@ footer {
     margin: 0;
     width: 165px;
     height: 165px;
+}
+
+.sci-name {
+    font-size: 1rem;
+}
+
+.status {
+    font-size: 15px;
+    padding: 5px;
+    border: 1px solid #FBFBD4;
+    box-shadow: 1px 1px;
+    margin-top: 5px;
+    border-radius: 5px;
+
 }
 
 .quote {
