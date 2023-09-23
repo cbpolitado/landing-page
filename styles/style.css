@@ -132,6 +132,11 @@ footer {
     flex: 1;
 }
 
+.hero-image--container {
+    width: auto;
+    height: auto;
+}
+
 .hero-image {
     background-color: #610E10;
     box-shadow: 6px 6px;
@@ -220,6 +225,10 @@ footer {
     border: 3px solid #FBFBD4;
     margin: 0.5rem 0;
     flex: 1 0 auto;
+}
+
+.no-border {
+    border: none;
 }
 
 @media screen and (min-width: 1024px) {
