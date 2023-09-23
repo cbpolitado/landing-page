@@ -171,6 +171,15 @@ footer {
     text-align: left;
 }
 
+.bird-details {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 1rem;
+}
+
 .sci-name {
     font-size: 1rem;
 }
