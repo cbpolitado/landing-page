@@ -158,6 +158,14 @@ footer {
     height: 165px;
 }
 
+.image-attribution {
+    border-left: 3px solid;
+    padding: 0 0.5rem;
+    font-size: 10px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
 .sci-name {
     font-size: 1rem;
 }
